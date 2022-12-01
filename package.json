@@ -1,23 +1,22 @@
 {
-  "name": "social-media-backend",
+  "name": "socail-api-network",
   "version": "1.0.0",
-  "description": "Back-End for Social Media Application",
-  "main": "server.js",
+  "description": "This is an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Users can interact with each other by creating post and adding friends. Those friends can then display reactions to the user's post.",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Toacin/Social-Media-Backend.git"
+    "url": "git+https://github.com/hoeferg/Socail-API-Network.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Toacin/Social-Media-Backend/issues"
+    "url": "https://github.com/hoeferg/Socail-API-Network/issues"
   },
-  "homepage": "https://github.com/Toacin/Social-Media-Backend#readme",
+  "homepage": "https://github.com/hoeferg/Socail-API-Network#readme",
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^6.7.2"
